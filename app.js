@@ -46,7 +46,7 @@ let aboutContent = `<section class="about-wrapper">
         comfortable working with JS i went on to learn-->
         
         <br />
-        As i went deeper into programming i wanted to do more than just programming so i started learning hacking 
+        As I went deeper into programming I wanted to do more than just programming so I started learning hacking.
       </p>
     </div>
   </div>
@@ -207,6 +207,8 @@ let skillsContent = `<div class="skills-section">
         <p> HTML, CSS, JavaScript, React ||||||||||||||||||||</p>
         <p> PHP ||||||||||||||||</p>
         <p> MySQL ||||||||||||||||||||</p>
+
+
         
     </div>
 </div>
@@ -329,7 +331,7 @@ document.addEventListener("DOMContentLoaded", () => {
       opacity: 0
     })
     .from("#skills", 0.3, {
-      y: 400,
+      y: 800,
       fontSize: 250
     })
     .from(".home", 1, {
