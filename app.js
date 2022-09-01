@@ -19,7 +19,7 @@ let aboutContent = `<section class="about-wrapper">
     </div>
     <div class="about-text">
       <p>
-        My name is GD.<br />
+        I am GD.<br />
         In 2020 [17], I discovered my passion towards programming and technology which derived from gaming 🎮<br />
         I wanted to learn about what I was really interested in and what I
         enjoyed doing.<br />
@@ -46,7 +46,7 @@ let aboutContent = `<section class="about-wrapper">
         comfortable working with JS i went on to learn-->
         
         <br />
-        As I went deeper into programming I wanted to do more than just programming so I started learning hacking.
+        As I went deeper into programming I wanted to do more than just programming so I started learning hacking. and linux administration.
       </p>
     </div>
   </div>
@@ -162,6 +162,22 @@ let workContent = `
                     <a href="https://github.com/gd03champ/Questionnaire-Bot" target="_blank">  
                     <p class="button-project btn-github ">Go to GITHUB</p>
                     </a>
+                </div>
+                
+                <div class="work-project-card card-6">
+                    <h1 class="work-project-card-title tooltip ">
+                    Smart Whitecane <span class="tooltiptext">
+                    Project idea: 
+                    <br>-Object Detection
+                    <br>-Positional Analysis
+                    <br>-Smart India Hackathon Winning Project
+                    
+                    </span>
+                    </h1>
+                    <a href="https://github.com/gd03champ/smart-whitecane-proj">
+                    <img class="workPic tooltip" src="https://i.dailymail.co.uk/i/pix/2014/06/20/article-2663715-1EF7186900000578-228_634x286.jpg"> </a>
+                    <a href="https://github.com/gd03champ/smart-whitecane-proj">  
+                    <p class="button-project btn-github ">Go to GITHUB </p></a>
                 </div>
 
                 <div class="work-project-card card-2">
