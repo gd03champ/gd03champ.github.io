@@ -62,6 +62,38 @@ let workContent = `
             <div class="skills-title">
             <h1>My Works</h1>
             </div><br>
+            
+                  <div class="work-project-card card-6">
+                    <h1 class="work-project-card-title tooltip ">
+                    Teachable Machine <span class="tooltiptext">
+                    Project idea: 
+                    <br>-Image Classification
+                    <br>-Tensorflow.js
+                    <br>-Transfer Learning
+                    
+                    </span>
+                    </h1>
+                    <a href="https://teachablemachine-gd.glitch.me">
+                    <img class="workPic tooltip" src="https://teachablemachine.withgoogle.com/assets/img/contentpage/home/collect.svg"> </a>
+                    <a href="https://github.com/gd03champ/TeachableMachine">  
+                    <p class="button-project btn-github ">Go to GITHUB </p></a>
+                </div>
+            
+                  <div class="work-project-card card-6">
+                    <h1 class="work-project-card-title tooltip ">
+                    Smart Whitecane <span class="tooltiptext">
+                    Project idea: 
+                    <br>-Object Detection
+                    <br>-Positional Analysis
+                    <br>-Smart India Hackathon Winning Project
+                    
+                    </span>
+                    </h1>
+                    <a href="https://github.com/gd03champ/smart-whitecane-proj">
+                    <img class="workPic tooltip" src="https://i.dailymail.co.uk/i/pix/2014/06/20/article-2663715-1EF7186900000578-228_634x286.jpg"> </a>
+                    <a href="https://github.com/gd03champ/smart-whitecane-proj">  
+                    <p class="button-project btn-github ">Go to GITHUB </p></a>
+                </div>
 
                 <div class="work-project-card card-6">
                     <h1 class="work-project-card-title tooltip ">
@@ -164,22 +196,6 @@ let workContent = `
                     </a>
                 </div>
                 
-                <div class="work-project-card card-6">
-                    <h1 class="work-project-card-title tooltip ">
-                    Smart Whitecane <span class="tooltiptext">
-                    Project idea: 
-                    <br>-Object Detection
-                    <br>-Positional Analysis
-                    <br>-Smart India Hackathon Winning Project
-                    
-                    </span>
-                    </h1>
-                    <a href="https://github.com/gd03champ/smart-whitecane-proj">
-                    <img class="workPic tooltip" src="https://i.dailymail.co.uk/i/pix/2014/06/20/article-2663715-1EF7186900000578-228_634x286.jpg"> </a>
-                    <a href="https://github.com/gd03champ/smart-whitecane-proj">  
-                    <p class="button-project btn-github ">Go to GITHUB </p></a>
-                </div>
-
                 <div class="work-project-card card-2">
                 <h1 class="work-project-card-title tooltip">
                     Coming Soon <span class="tooltiptext">
